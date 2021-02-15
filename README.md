@@ -1,8 +1,4 @@
-# github-campus-expert-daniel-palenzuela-alvarez-alu0101140469
-github-campus-expert-daniel-palenzuela-alvarez-alu0101140469 created by GitHub Classroom
-
-
-Informe Práctica Opcional: GitHub Campus Expert
+# Informe Práctica Opcional: GitHub Campus Expert
 
 Estas son las tareas a realizar:
   1. Realice el curso Become a Campus Expert de GitHub. Si está cerrado subscríbase a la lista y siga el curso cuando se abra.
