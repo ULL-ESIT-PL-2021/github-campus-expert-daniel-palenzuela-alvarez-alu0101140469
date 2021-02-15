@@ -1,9 +1,9 @@
 # Informe Práctica Opcional: GitHub Campus Expert
 
-**Estas son las tareas a realizar:**
-  **1. Realice el curso Become a Campus Expert de GitHub. Si está cerrado subscríbase a la lista y siga el curso cuando se abra.**
-  **2. Solicite su Student Developer Pack**
-  **3. Opcional: Solicite una GitHub Internship. Si está cerrada subscríbase para recibir las actualizaciones. No es necesario que acepte si es elegido.**
+Estas son las tareas a realizar:
+  1. Realice el curso Become a Campus Expert de GitHub. Si está cerrado subscríbase a la lista y siga el curso cuando se abra.
+  2. Solicite su Student Developer Pack
+  3. Opcional: Solicite una GitHub Internship. Si está cerrada subscríbase para recibir las actualizaciones. No es necesario que acepte si es elegido.
   
   
  1- Me he dirigido al enlace para poder solicitar la suscripción del curso, pero para poder solicitarla debo antes disponer del apartado 2 de esta práctica, 
